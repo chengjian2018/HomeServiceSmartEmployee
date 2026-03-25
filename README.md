@@ -1,7 +1,7 @@
 # HomeServiceSmartEmployee
 > An LLM-based AI Outbound Call Framework
 
-![日志界面-旧](https://github.com/user-attachments/assets/6d33bf06-8456-4afc-a771-66a132b034ef)
+![日志界面-旧](https://github.com/user-attachments/assets/6cf0ddfb-e2ac-4621-a5dc-233f96f87113)
 
 ## 🎧 外呼示例 (Outbound Call Demo)
 
