@@ -7,7 +7,8 @@
 
 点击下方播放器即可收听真实的 AI 外呼录音：
 
-<audio controls>
+<!-- 尝试使用 video 标签兼容某些只允许 video 的平台，或者重新书写 audio 标签 -->
+<video width="100%" controls>
   <source src="https://s3.cn-north-1.jdcloud-oss.com/yx-hj-record/60929.jd/2026/0325/customerSide/2281339120085076286_2281338960085071788.wav" type="audio/wav">
-  您的浏览器不支持 audio 标签，请<ahref="https://s3.cn-north-1.jdcloud-oss.com/yx-hj-record/60929.jd/2026/0325/customerSide/2281339120085076286_2281338960085071788.wav">点击下载音频文件</a>。
-</audio>
+  您的浏览器不支持播放，请[点击下载](https://s3.cn-north-1.jdcloud-oss.com/yx-hj-record/60929.jd/2026/0325/customerSide/2281339120085076286_2281338960085071788.wav)。
+</video>
