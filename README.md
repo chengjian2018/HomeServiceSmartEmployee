@@ -7,4 +7,4 @@
 
 点击下方播放器即可收听真实的 AI 外呼录音：
 
-[▶️ **点击播放外呼录音**](https://s3.cn-north-1.jdcloud-oss.com/yx-hj-record/60929.jd/2026/0325/customerSide/2281339120085076286_2281338960085071788.wav)
+[▶️ **点击播放外呼录音**](https://s3.cn-north-1.jdcloud-oss.com/yx-hj-record/60929.jd/2026/0325/customerSide/2281366390084122901_2281366380084124369.wav)
