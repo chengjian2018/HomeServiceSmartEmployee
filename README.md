@@ -7,4 +7,11 @@
 
 点击下方播放器即可收听真实的 AI 外呼录音：
 
+<audio controls>
+  <source src="demo.mp3" type="audio/mpeg">
+  您的浏览器不支持 audio 元素。
+</audio>
+
 [▶️ **点击播放外呼录音**](demo.mp3)
+
+
