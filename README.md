@@ -1,7 +1,13 @@
 # HomeServiceSmartEmployee
 > An LLM-based AI Outbound Call Framework
 
+## 日志界面
+
 ![日志界面-旧](日志界面.png)
+
+## 维修场景
+<img width="3258" height="1796" alt="image" src="https://github.com/user-attachments/assets/ce94aa2d-4002-4fc2-b78c-018d2aebd1f2" />
+
 
 
 ## 🎧 外呼示例 (Outbound Call Demo)
