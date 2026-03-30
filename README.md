@@ -1,6 +1,8 @@
 # HomeServiceSmartEmployee
 > An LLM-based AI Outbound Call Framework
 
+## 架构设计（Coming Soon...）
+
 ## 日志界面
 
 ![日志界面-旧](日志界面.png)
