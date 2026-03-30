@@ -3,8 +3,6 @@
 
 ![日志界面-旧](日志界面.png)
 
-<img width="3292" height="1708" alt="image" src="https://github.com/user-attachments/assets/3e52ed6d-5d22-4938-a765-1690ea37a756" />
-
 
 ## 🎧 外呼示例 (Outbound Call Demo)
 
